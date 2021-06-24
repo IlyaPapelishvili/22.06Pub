@@ -5,3 +5,4 @@ msgstr ""
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr ""
+
